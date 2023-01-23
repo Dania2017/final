@@ -1,0 +1,35 @@
+.statisti{
+    background-image: url(../image/1579682533_33.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.statisti h2{
+    font-size: 40px;
+}
+
+/* start main */
+
+main .row{
+    background-image: url(../image/1579682533_33.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main .col-lg-3{
+    background-color: rgba(236, 228, 228, 0.384);
+    border: 2px solid white;
+    margin-bottom: 100px;
+}
+
+i{
+    font-size: 30px;
+}
+
+
+
+
+
+
